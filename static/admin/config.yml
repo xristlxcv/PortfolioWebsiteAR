@@ -8,7 +8,7 @@ backend:
   collections:
     -name: "post"
      label: "First Post"
-     folder: "content/posts/3d"
+     folder: "content/post/3d"
      create: true
      slug: "{{slug}}"
      fields:
