@@ -2,7 +2,7 @@
 title: "Cube shooter AR"
 date: 2019-9-11T10:35:35-05:00
 description: "AR Markless with Vuforia"
-categories: ["Unity","Markless","Vuforia]
+categories: ["Unity","Markless","Vuforia"]
 dropCap: true
 displayInMenu: false
 displayInList: true
