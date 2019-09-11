@@ -13,6 +13,6 @@ resources:
 ---
 
 
-<video width="700" height="400" controls>
+<video width="700" height="401" controls>
   <source src="https://thumbs.gfycat.com/BleakDisgustingBinturong-mobile.mp4" type="video/mp4">
 </video>
