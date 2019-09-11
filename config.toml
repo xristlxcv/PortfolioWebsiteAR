@@ -1,4 +1,4 @@
-baseURL = ""
+baseURL = "https://arporfolio.netlify.com"
 languageCode = "The language code for the language the website is written in"
 title = "AR PROJECTS"
 theme = "aether"
