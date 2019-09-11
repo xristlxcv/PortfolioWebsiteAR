@@ -1,6 +1,6 @@
 ---
 title: "Watches AR"
-date: 2018-12-19T10:35:35-05:00
+date: 2019-9-11T10:35:35-05:00
 description: "Augmented Reality watches with Vuforia Image Target"
 categories: ["Vuforia","Image Target"]
 dropCap: true
