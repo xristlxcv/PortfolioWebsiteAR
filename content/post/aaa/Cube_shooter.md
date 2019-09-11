@@ -14,5 +14,5 @@ resources:
 
 
 <video width="700" height="401" controls>
-  <source src="https://gfycat.com/wealthythankfulhypacrosaurus" type="video/mp4">
+  <source src="https://thumbs.gfycat.com/WealthyThankfulHypacrosaurus-mobile.mp4" type="video/mp4">
 </video>
