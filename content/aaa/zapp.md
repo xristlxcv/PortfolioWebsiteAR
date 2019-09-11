@@ -9,7 +9,7 @@ displayInList: true
 draft: false
 resources:
 - name: featuredImage
-  src: "watch1.png"
+  src: "https://i.ibb.co/MBPWkKH/watch1.png"
 ---
 
 Hugo combined with the Aether theme turns easy to write markdown into powerful web pages.  KaTeX, Highlight.js, and Hugo provides the ability to create mathmatical symobols, equations, highlighted code, tables, lists, and much more.
