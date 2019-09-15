@@ -1,0 +1,25 @@
+backend:
+  name: git-gateway
+  branch: master # Branch to update (optional; defaults to master)
+
+
+media_folder: "static/uploads" # Media files will be stored in the repo under static/images/uploads
+public_folder: "uploads" 
+
+
+collections:
+  -name: "post"
+   label: "Post"
+   folder: "content/post/aaa"
+   create: true
+   slug: "{{slug}}"
+  fields: # The fields for each document, usually in front matter
+    - {label: "Title", name: "title", widget: "string", required: true }
+    - {label: "Publish Date", name: "date", widget: "datetime"}
+    - {label: "Description", name: "description", widget: "string"}
+    - {label: "Categories", name: "categories", widget: "string"}
+    - {label: "DropCap", name: "dropCap", widget: "boolean"}
+    - {label: "DisplayInMenu", name: "displayInMenu", widget: "boolean"}
+    - {label: "DisplayInList", name: "displayInList", widget: "boolean"}
+    - {label: "Draft", name: "draft", widget: "boolean"}
+    - {label: "Body", name: "body", widget: "markdown"}
