@@ -8,8 +8,8 @@ public_folder: "uploads"
 
 
 collections:
-  -name: "post"
-   label: "Post"
+  -name: "Post"
+   label: "post"
    folder: "content/post/aaa"
    create: true
    slug: "{{slug}}"
