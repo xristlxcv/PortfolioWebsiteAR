@@ -13,6 +13,7 @@ collections:
     folder: "content/post/aaa"
     create: true
     slug: "{{slug}}"
+    identifier_field: body
     fields:
       - {label: "Title", name: "title", widget: "string", required: true }
       - {label: "Publish Date", name: "date", widget: "datetime"}
